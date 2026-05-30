@@ -1,4 +1,4 @@
-import { Home2,Book,SearchNormal1,Game,Setting5 } from "iconsax-react";
+import { Menu1,Book,SearchNormal1,Game,Setting5 } from "iconsax-react";
 
 export const siteConfig = {
 	mainv: "1.0.0" ,
@@ -20,7 +20,7 @@ export const siteConfig = {
 		{
 			id: 0,
 			display:"Home",
-			icon: Home2,
+			icon: Menu1,
 			import: "home.js",
 		},
 		{
